@@ -2,19 +2,19 @@ const { Post } = require('../models');
 
 const postdata = [
   {
-    title: 'Donec posuere metus vitae ipsum.',
-    content: 'content1',
+    title: 'I love apples',
+    content: 'Apples are the best fruits in the universe.',
     user_id: 1
   },
   {
-    title: 'Morbi non quam nec dui luctus rutrum.',
-    content: 'content2',
+    title: 'I bought a cat.',
+    content: 'I wanted a cat since a long time. I finally bought one.',
+    user_id: 1
+  },
+  {
+    title: 'Who can lend me his car?',
+    content: 'I need to go to Montreal.',
     user_id: 2
-  },
-  {
-    title: 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.',
-    content: 'content3',
-    user_id: 1
   }
 ];
 
