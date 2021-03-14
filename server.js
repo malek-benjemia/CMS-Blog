@@ -38,3 +38,5 @@ sequelize.sync({ force: false }).then(() => {
   console.log("db connected");
   app.listen(PORT, () => console.log('Now listening ', PORT));
 });
+
+app.listen(PORT, () => console.log('Now listening ', PORT));
