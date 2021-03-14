@@ -18,7 +18,7 @@ npm install express sequelize mysql2 express-handlebars dotenv bcrypt connect-se
 Please don't forget to properly set the gitignore file.
 
 ## <span id="usage">Usage</span>
-Use it to View/Update/Delete users, posts and comments on your Blog. The database can be reste by using mysql -u root -p  source db/schema.sql. The tables can be reset by using the commands "npm run seeds". In the command line (bash) enter npm start, then go to <a href="http://localhost:3001">http://localhost:3001</a>. Alternatively use Heroku.
+Use it to View/Update/Delete users, posts and comments on your Blog. The database can be reste by using mysql -u root -p  source db/schema.sql. The tables can be reset by using the commands "npm run seeds". In the command line (bash) enter npm start, then go to <a href="http://localhost:3001">http://localhost:3001</a>. Alternatively use <a href="https://cmsblogmalekbenjemia.herokuapp.com/">Heroku</a>.
 
 ## <span id="license">License</span>
 This application is covered under no licence.
@@ -27,7 +27,7 @@ This application is covered under no licence.
 Please feel free to contribute as you see fit.
 
 ## <span id="tests">Tests</span>
-Please use <a href="http://localhost:3001">http://localhost:3001</a>. Alternatively use Heroku.
+Please use <a href="http://localhost:3001">http://localhost:3001</a>. Alternatively use <a href="https://cmsblogmalekbenjemia.herokuapp.com/">Heroku</a>.
 
 ## <span id="questions">Questions</span>
 View Project on <a href="https://github.com/malek-benjemia">GitHub</a><br>
