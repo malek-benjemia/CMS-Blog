@@ -91,6 +91,26 @@ main {
   padding: 2% 4%;
 }
 
+
+/* CARDS */
+.card {
+  margin: 0 0 20px 0;
+  border: 3px solid black;
+}
+
+.card-header {
+  color: white;
+  background-color: black;
+  padding: 2.5%;
+  border-radius: calc(.18rem - 1px) calc(.18rem - 1px) 0 0;
+}
+
+.card-body {
+  padding: 2.5%;
+  background-color: rgb(150, 203, 219);
+  color: black;
+}
+
 .btn-no-style {
   background: none;
   border: none;
